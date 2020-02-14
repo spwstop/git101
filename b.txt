@@ -1,2 +1,2 @@
-สร้างไฟล์ b.txt
+สร้างไฟล์ b.txt แก้ไขใน feature2
 อย่าลืม save ทั้ง 2 files
